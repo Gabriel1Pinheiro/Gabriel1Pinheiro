@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Pinheiro
 
-<div>
+<div class= "center">
 <a href="https://github.com/Gabriel1Pinheiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1Pinheiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
